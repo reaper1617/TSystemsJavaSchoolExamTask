@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : reaper1617
-* Codeship : [ ![Codeship Status for reaper1617/TSystemsJavaSchoolExamTask](https://app.codeship.com/projects/a9af8940-d130-0134-89a6-5e8aaaa2a5a2/status?branch=master)](https://app.codeship.com/projects/284165)
+* Codeship : [ ![Codeship Status for reaper1617/TSystemsJavaSchoolExamTask](https://app.codeship.com/projects/edc37c30-19c7-0136-f7b5-06b81823cdbd/status?branch=master)](https://app.codeship.com/projects/284165)
 
 
 
