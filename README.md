@@ -16,6 +16,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 
 
+
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
 * [Fork](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html) the repository 
